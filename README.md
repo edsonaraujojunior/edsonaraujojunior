@@ -4,4 +4,4 @@
 - **Web Technologies:** [React, Angular, PHP, RESTful APIs]
 - **Frameworks:** [Laravel, WordPress, Node.js, Angular]
 
-- Feel free to reach out if you have any questions or collaboration ideas!
+Feel free to reach out if you have any questions or collaboration ideas!
