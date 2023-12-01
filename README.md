@@ -1,4 +1,4 @@
-## Hey there! 👋 I'm [Edson], a passionate [Full Stack Developer]!
+## Hey there! 👋 I'm Edson, a passionate Full Stack Developer!
 
 ### Skills
 - **Web Technologies:** [React, Angular, PHP, RESTful APIs]
